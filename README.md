@@ -11,5 +11,4 @@ Multihead Self Attention mechanism
 Adam optimizer with warmup
 
 
-Trained both the models on Cornell movie dialogues dataset
-
+Trained both the models on Cornell movie dialogues dataset available at 'https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus'
