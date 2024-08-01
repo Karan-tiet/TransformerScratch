@@ -1,2 +1,2 @@
 # TransformerScratch
-created a vanilla transformer from scratch .
+Created a vanilla Transformer and a Universal Transformer from scratch .
